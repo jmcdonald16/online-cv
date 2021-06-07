@@ -30,20 +30,11 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Weightlifting
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Music
         link:
 
 career-profile:
